@@ -1,0 +1,16 @@
+{
+  "name": "webhook-handler",
+  "version": "1.0.0",
+  "description": "Receive and process webhook events",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "webhook",
+    "handler"
+  ],
+  "author": "RyanMoshi",
+  "license": "MIT"
+}
